@@ -48,7 +48,7 @@ Anaconda - Python 3.7
 
 ```
 ## Output:
-# SOBEL EDGE DETECTOR
+### SOBEL EDGE DETECTOR
 <br>
 <br>
 <br>
@@ -57,7 +57,7 @@ Anaconda - Python 3.7
 <br>
 
 
-# LAPLACIAN EDGE DETECTOR
+### LAPLACIAN EDGE DETECTOR
 <br>
 <br>
 <br>
@@ -66,7 +66,7 @@ Anaconda - Python 3.7
 <br>
 
 
-# CANNY EDGE DETECTOR
+### CANNY EDGE DETECTOR
 <br>
 <br>
 <br>
