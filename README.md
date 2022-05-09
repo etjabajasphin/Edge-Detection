@@ -24,6 +24,7 @@ Anaconda - Python 3.7
 
  
 ## Program:
+
 ``` Python
 # Import the packages
 
@@ -31,11 +32,12 @@ Anaconda - Python 3.7
 # Load the image, Convert to grayscale and remove noise
 
 
+
 # SOBEL EDGE DETECTOR
 
 
 
-#LAPLACIAN EDGE DETECTOR
+# LAPLACIAN EDGE DETECTOR
 
 
 
@@ -46,6 +48,25 @@ Anaconda - Python 3.7
 
 ```
 ## Output:
+# SOBEL EDGE DETECTOR
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+# LAPLACIAN EDGE DETECTOR
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+# CANNY EDGE DETECTOR
 <br>
 <br>
 <br>
